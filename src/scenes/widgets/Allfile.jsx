@@ -16,7 +16,7 @@ const Allfile = () => {
 
   const getUser = async () => {
     console.log('userid',userId)
-    const response = await fetch(`http://localhost:3000/users/${userId}`, {
+    const response = await fetch(`https://bob-b.onrender.com/users/${userId}`, {
       method: "GET",
       headers: { Authorization: `Bearer ${token}` },
     });

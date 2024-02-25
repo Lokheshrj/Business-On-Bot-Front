@@ -97,7 +97,7 @@ const Navbar = () => {
   const searchUsers = async (searchQuery) => {
     try {
       const response = await fetch(
-        `http://localhost:3000/search?query=${searchQuery}`,
+        `https://bob-b.onrender.com/search?query=${searchQuery}`,
         {
           method: "GET",
           headers: {
