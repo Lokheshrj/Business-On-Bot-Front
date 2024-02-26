@@ -1,4 +1,4 @@
-Link --> https://business-on-bot-front.vercel.app/home
+Link --> https://business-on-bot-front.vercel.app/
 
 ![WhatsApp Image 2024-02-25 at 5 35 12 PM](https://github.com/Lokheshrj/Business-On-Bot-Backend/assets/94900012/9979363b-3a26-4673-b10c-decb7b4db577)
 ![WhatsApp Image 2024-02-25 at 5 35 12 PM](https://github.com/Lokheshrj/Business-On-Bot-Backend/assets/94900012/92915be9-8498-4fc4-8568-2e95cced82a5)
